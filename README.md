@@ -35,8 +35,81 @@ Follow along to:
 ## 📁 Project Structure
 
 ```
-
-
+icytower-turtle-python/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+└── episodes/
+    ├── episode01/       # Project & Screen Setup
+    │   ├── README.md
+    │   ├── constants.py
+    │   └── main.py
+    │
+    ├── episode02/       # Wall & Platform Rendering
+    │   ├── README.md
+    │   ├── constants.py
+    │   ├── main.py
+    │   └── renderer.py
+    │
+    ├── episode03/       # Player Movement & Keyboard Input
+    │   ├── README.md
+    │   ├── actors.py
+    │   ├── constants.py
+    │   ├── main.py
+    │   └── renderer.py
+    │
+    ├── episode04/       # Physics & Collision
+    │   ├── README.md
+    │   ├── actors.py
+    │   ├── constants.py
+    │   ├── main.py
+    │   └── renderer.py
+    │
+    ├── episode05/       # Screen Scrolling & Platform Recycling
+    │   ├── README.md
+    │   ├── actors.py
+    │   ├── constants.py
+    │   ├── main.py
+    │   └── renderer.py
+    │
+    ├── episode06/       # Score Tracking & Game Over
+    │   ├── README.md
+    │   ├── actors.py
+    │   ├── constants.py
+    │   ├── main.py
+    │   └── renderer.py
+    │
+    └── episode07/       # Final Game – Graphics, Audio & Effects
+        ├── README.md
+        ├── actors.py
+        ├── background.gif
+        ├── constants.py
+        ├── floor.gif
+        ├── jump.wav
+        ├── main.py
+        ├── plat_6.gif
+        ├── plat_7.gif
+        ├── plat_7.png
+        ├── plat_8.gif
+        ├── plat_8.png
+        ├── plat_9.gif
+        ├── plat_10.gif
+        ├── plat_11.gif
+        ├── plat_12.gif
+        ├── player.gif
+        ├── player_45l.gif
+        ├── player_45r.gif
+        ├── player_90l.gif
+        ├── player_90r.gif
+        ├── player_135l.gif
+        ├── player_135r.gif
+        ├── player_180.gif
+        ├── player_left.gif
+        ├── player_right.gif
+        ├── renderer.py
+        └── wohoo.wav
 ```
 
 📦 **Note:** 
