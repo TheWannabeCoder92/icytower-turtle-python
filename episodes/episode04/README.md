@@ -22,16 +22,16 @@ Make sure you have Python 3 installed. Then run:
 python main.py
 ```
 
+You should now see the player fall and land on platforms — and jump if you press the spacebar when grounded!
+
+---
+
 ## 📁 Files Included
 
 - `main.py` – Runs the game loop and updates physics each frame.
 - `constants.py` – Updated with gravity, jump velocity, and friction values.
 - `renderer.py` – Still handles visual layout.
 - `actors.py` – Updated with full physics logic, including jumping and collision detection.
-
----
-
-You should now see the player fall and land on platforms — and jump if you press the spacebar when grounded!
 
 ---
 
