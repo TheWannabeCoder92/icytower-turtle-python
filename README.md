@@ -4,8 +4,6 @@ This is a beginner-friendly **Icy Tower–style platformer** built using Python'
 
 The code is part of a full YouTube tutorial series, where we build the game step by step — covering everything from movement physics and wall bouncing to infinite vertical scrolling, UI, and visual effects.
 
----
-
 ## 🎥 Watch the Tutorial Series
 
 YouTube Playlist: [Pac-Man in Python - Full Tutorial Series](https://www.youtube.com/playlist?list=PL1XCNNzXQuPME9orzlJcHu7NpbsNbQ5Du)
