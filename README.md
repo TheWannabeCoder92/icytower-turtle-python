@@ -116,7 +116,7 @@ icytower-turtle-python/
 
 📦 **Note:** 
 - `episode07/` contains the final version of the complete game.  
-- Sound effects are played using `aplay` (Linux) — you may need to adjust the command for Windows or macOS.  
+- Sound effects are played using `aplay` (Linux) — you may need to adjust the command for Windows `winsound`  or macOS `afplay`.  
 - Game physics and scoring logic can all be tweaked in `constants.py`.
 
 ## 📋 Requirements
