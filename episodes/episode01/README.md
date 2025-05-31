@@ -33,3 +33,7 @@ A black game window will appear — it’s the starting point of our Icy Tower p
 
 - `main.py` – The entry point of the game loop and screen setup.
 - `constants.py` – Stores core game constants like screen width, height, and player size.
+
+---
+
+In the next episode, we’ll add the **environment** — drawing the walls and platforms that make up the tower!
