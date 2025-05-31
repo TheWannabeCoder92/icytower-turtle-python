@@ -6,7 +6,7 @@ The code is part of a full YouTube tutorial series, where we build the game step
 
 ## 🎥 Watch the Tutorial Series
 
-YouTube Playlist: [Pac-Man in Python - Full Tutorial Series](https://www.youtube.com/playlist?list=PL1XCNNzXQuPME9orzlJcHu7NpbsNbQ5Du)
+YouTube Playlist: [Icy Tower in Python - Full Tutorial Series](https://www.youtube.com/playlist?list=PL1XCNNzXQuPME9orzlJcHu7NpbsNbQ5Du)
 
 ---
 
