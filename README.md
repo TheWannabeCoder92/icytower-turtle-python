@@ -40,6 +40,8 @@ icytower-turtle-python/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
+├── media/
+│   └── final_game.mp4
 │
 └── episodes/
     ├── episode01/       # Project & Screen Setup
