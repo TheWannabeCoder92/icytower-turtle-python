@@ -35,13 +35,4 @@ You should see a black game window with two walls on the sides and several platf
 
 ---
 
-## 🧠 Key Concepts
-
-This episode introduces the idea of **separating concerns**:
-
-- We keep logic and visuals in separate files.
-- This makes the project easier to maintain and scale.
-
----
-
 In the next episode, we’ll add the **player** and start handling keyboard controls!
